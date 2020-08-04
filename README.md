@@ -1,7 +1,7 @@
 # Nocode
 ## Usage:
 
-use ```nocode.py output.nc``` to run ncfile.
+use ```python3 nocode.py output.nc``` to run ncfile.
 
 # How to code with nocode
 
